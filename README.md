@@ -22,6 +22,7 @@ Input
 - W - - - -
 - - - C - -
 M - - - - -
+
 down, right, down, right, down, left, left, left
 
 Output
